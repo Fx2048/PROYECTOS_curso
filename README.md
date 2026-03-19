@@ -39,7 +39,7 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 ---
 
 ## 📌 Resumen Final  
-El Equipo 01, conformado por estudiantes de Ingeniería Ambiental e Informática de la Universidad Peruana Cayetano Heredia, participa en el curso Proyectos de Ingeniería 2026-1. Su propósito es aplicar metodologías de diseño para crear soluciones innovadoras con impacto social, tecnológico y ambiental.
+El Equipo 04, conformado por estudiantes de Ingeniería Ambiental e Informática de la Universidad Peruana Cayetano Heredia, participa en el curso Proyectos de Ingeniería 2026-1. Su propósito es aplicar metodologías de diseño para crear soluciones innovadoras con impacto social, tecnológico y ambiental.
 
 El grupo centra sus esfuerzos en los Objetivos de Desarrollo Sostenible (ODS):
 

@@ -30,11 +30,11 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 
 | Foto | Nombre | Rol | Intereses |
 |------|--------|-----|-----------|
-| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Brigitte Bernal Belisario** | Líder del equipo | Innovación social, sostenibilidad |
-| <img src="/Recursos/Imágenes/integrante2.png" width="90"/> | **Salazar León** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
-| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Pereira Velasque José Jayro Aldair** | Diseñador/a | Diseño de prototipos, creatividad aplicada |
-| <img src="/Recursos/Imágenes/integrante2.png" width="90"/> | **Turin Escobar Mayori Yumira** | Encargado de documentación | Comunicación científica, redacción técnica |
-| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Bernal Belisario, Brigitte** | Programador - Modelador/a | Programación, análisis de datos, simulación |
+| <img src="https://github.com/user-attachments/assets/f5e4e18a-ede9-4790-a543-4c4fc53b4651" width="90"/> | **Brigitte Bernal Belisario** | Líder del equipo | Innovación social, sostenibilidad |
+| <img src="https://github.com/user-attachments/assets/eb6ef572-0b34-4c32-b1a0-8fd54ac42467" width="90"/> | **Salazar León** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
+| <img src="https://github.com/user-attachments/assets/94f00231-8488-4b4a-abeb-dda75b65e74c" width="90"/> | **Pereira Velasque José Jayro Aldair** | Diseñador/a | Diseño de prototipos, creatividad aplicada |
+| <img src="https://github.com/user-attachments/assets/ea288c55-b2a0-4e43-9b20-7f89abbfa6d0" width="90"/> | **Turin Escobar Mayori Yumira** | Encargado de documentación | Comunicación científica, redacción técnica |
+| <img src="https://github.com/user-attachments/assets/f5e4e18a-ede9-4790-a543-4c4fc53b4651" width="90"/> | **Bernal Belisario, Brigitte** | Programador - Modelador/a | Programación, análisis de datos, simulación |
 
 ---
 

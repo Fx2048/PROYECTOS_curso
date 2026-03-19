@@ -1,12 +1,12 @@
 # PROYECTOS_curso
-# Equipo 01 - Thunder
+# Equipo 04 - Thunder
 ### Carrera de Ingeniería Ambiental / Informática 
 **Universidad Peruana Cayetano Heredia**
 
 ---
 
 ## 🌍 Descripción del Equipo  
-Somos el **Equipo 01** del curso **Proyectos de Ingeniería 2026-1**, conformado por estudiantes de la carrera de Ingeniería Ambiental / Informática.  
+Somos el **Equipo 04** del curso **Proyectos de Ingeniería 2026-1**, conformado por estudiantes de la carrera de Ingeniería Ambiental / Informática.  
 Nuestro objetivo es aplicar la metodología de diseño para generar soluciones innovadoras con impacto social, tecnológico y ambiental.  
 
 Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (ODS):**  
@@ -31,10 +31,10 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 | Foto | Nombre | Rol | Intereses |
 |------|--------|-----|-----------|
 | <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Brigitte Bernal Belisario** | Líder del equipo | Innovación social, sostenibilidad |
-| <img src="/Recursos/Imágenes/integrante2.png" width="90"/> | **Arnold Uriel Casimiro Beteta** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
-| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Elvis Deiwis Pilco Cruz** | Diseñador/a | Diseño de prototipos, creatividad aplicada |
-| <img src="/Recursos/Imágenes/integrante2.png" width="90"/> | **Nicolás Genaro Chuquista Rivadeneira** | Encargado de documentación | Comunicación científica, redacción técnica |
-| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Enrique Alejandro Orozco Mendoza** | Programador - Modelador/a | Programación, análisis de datos, simulación |
+| <img src="/Recursos/Imágenes/integrante2.png" width="90"/> | **Salazar León** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
+| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Pereira Velasque José Jayro Aldair** | Diseñador/a | Diseño de prototipos, creatividad aplicada |
+| <img src="/Recursos/Imágenes/integrante2.png" width="90"/> | **Turin Escobar Mayori Yumira** | Encargado de documentación | Comunicación científica, redacción técnica |
+| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Bernal Belisario, Brigitte** | Programador - Modelador/a | Programación, análisis de datos, simulación |
 
 ---
 

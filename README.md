@@ -1,5 +1,12 @@
 <img width="1919" height="383" alt="image" src="https://github.com/user-attachments/assets/d5be8863-1d69-4bd2-8e8a-ad136ea38258" />
 
+[![UPCH](https://img.shields.io/badge/UPCH-%20-101010?style=for-the-badge&logo=universities&logoColor=white&labelColor=FFD700)](https://www.cayetano.edu.pe/)
+[![Arduino](https://img.shields.io/badge/Arduino-%20-101010?style=for-the-badge&logo=arduino&logoColor=white&labelColor=00979D)](https://www.arduino.cc/)
+[![Python](https://img.shields.io/badge/Python-%20-101010?style=for-the-badge&logo=python&logoColor=white&labelColor=FFD43B)](https://www.python.org/)
+[![IA](https://img.shields.io/badge/IA-%20-101010?style=for-the-badge&logo=robot&logoColor=white&labelColor=6C6E6B)](https://en.wikipedia.org/wiki/Artificial_intelligence)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-%20-101010?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=FF6F00)](https://www.tensorflow.org/)
+[![ChatGPT](https://img.shields.io/badge/ChatGPT-%20-101010?style=for-the-badge&logo=openai&logoColor=white&labelColor=10A37F)](https://www.openai.com/chatgpt)
+
 # Equipo 04 - Thunder
 ### Carrera de Ingeniería Ambiental / Informática 
 **Universidad Peruana Cayetano Heredia**

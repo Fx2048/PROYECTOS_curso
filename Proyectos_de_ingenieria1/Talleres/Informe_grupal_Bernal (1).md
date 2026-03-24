@@ -20,3 +20,7 @@ Después, crear la base:
 # Comprensión
 <img width="1919" height="872" alt="image" src="https://github.com/user-attachments/assets/2e820b53-852b-4d5a-8b23-22bc5e7b9dbd" />
 
+# Tracción:
+
+<img width="1919" height="892" alt="image" src="https://github.com/user-attachments/assets/353126a9-c2f7-4932-96c7-79777ad34d45" />
+

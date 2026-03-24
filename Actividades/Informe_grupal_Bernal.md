@@ -13,6 +13,7 @@ Después, crear la base:
 2. <img width="1902" height="864" alt="image" src="https://github.com/user-attachments/assets/52270126-1d77-49f8-af00-12a190497b24" />
 
 
+3. <img width="1914" height="916" alt="image" src="https://github.com/user-attachments/assets/474926eb-1960-4433-9e7d-412ac594a7c9" />
 
 
 <img width="1913" height="857" alt="image" src="https://github.com/user-attachments/assets/3427fa85-e522-48c3-a447-962f93e1e5ef" />

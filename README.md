@@ -35,6 +35,7 @@
 
 **WILLAY** (quechua: *"Alerta"*) es una plataforma DeepTech de inteligencia climática diseñada para predecir heladas y sequías con **85% de precisión y 72 horas de anticipación**, protegiendo a más de **14 millones de pequeños agricultores andinos** vulnerables al cambio climático.
 
+
 ### 🔑 Propuesta de Valor
 | Componente | Descripción |
 |------------|-------------|
@@ -125,8 +126,7 @@
 
 ---
 
-## 📁 Estructura del Proyecto
-
+## 📁 [Estructura del Proyecto](https://github.com/Fx2048/cultiva-seguro)
 ```
 willay-deeptech/
 ├── 📁 frontend/                 # Aplicación web/móvil

@@ -16,7 +16,6 @@ Después, crear la base:
 3. <img width="1914" height="916" alt="image" src="https://github.com/user-attachments/assets/474926eb-1960-4433-9e7d-412ac594a7c9" />
 
 
-<img width="1913" height="857" alt="image" src="https://github.com/user-attachments/assets/3427fa85-e522-48c3-a447-962f93e1e5ef" />
 
 # Comprensión
 <img width="1919" height="872" alt="image" src="https://github.com/user-attachments/assets/2e820b53-852b-4d5a-8b23-22bc5e7b9dbd" />

@@ -18,6 +18,6 @@ Después, crear la base:
 
 <img width="1913" height="857" alt="image" src="https://github.com/user-attachments/assets/3427fa85-e522-48c3-a447-962f93e1e5ef" />
 
-# Tracción 
+# Comprensión
 <img width="1919" height="872" alt="image" src="https://github.com/user-attachments/assets/2e820b53-852b-4d5a-8b23-22bc5e7b9dbd" />
 

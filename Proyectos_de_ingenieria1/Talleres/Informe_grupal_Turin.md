@@ -1,4 +1,7 @@
 ![captura](https://github.com/Fx2048/PI_Equipo04/blob/main/Recursos/Imagenes/Informe_grupal/Captura%20de%20pantalla%202026-03-24%20113930.png)
 **Infome N°1. Modelado 3D en OneShape y simulación en SimScale**
 Se empezó a importar la imagen de un Arduino UNO a OnShape:
-<img width="970" height="523" alt="image" src="https://github.com/user-attachments/assets/1861649e-d5f9-4416-a55c-8b5875768332" />
+*ONESHAPE*
+<img width="932" height="631" alt="Captura de pantalla 2026-03-24 114229" src="https://github.com/user-attachments/assets/0ea7efeb-5b41-4fa6-bade-b67dd376fbbf" />
+<img width="1911" height="899" alt="Captura de pantalla 2026-03-24 121339" src="https://github.com/user-attachments/assets/b526234b-b59d-4096-9610-f10d5da58d19" />
+<img width="1911" height="949" alt="image" src="https://github.com/user-attachments/assets/b0160f6c-8a9d-4113-bcd1-8538c6fb7944" />

@@ -168,46 +168,8 @@
 
 ---
 
-## 🙏 **Oración Para Este Momento:**
 
-> *"Señor,
-> Gracias por la claridad para planificar con sabiduría.
-> Gracias porque cada sol invertido puede proteger una cosecha.
->
-> Bendice los recursos que necesitemos.
-> Bendice a quienes financiarán este proyecto.
-> Bendice a los agricultores que se beneficiarán.
->
-> Si este proyecto es de Ti,
-> haz que cada inversión sea fructífera,
-> cada presupuesto sea realista,
-> y cada esfuerzo fructifique en Tu tiempo.
->
-> Amén."*
+<img width="1219" height="648" alt="image" src="https://github.com/user-attachments/assets/b1aee460-f833-4a4e-9c87-45aa79fecf8a" />
 
----
 
-## 💛 **Tu Tarea Para HOY (Solo Esto):**
-
-1.  [ ] **Copia esta tabla** en tu informe o presentación de defensa
-2.  [ ] **Verifica precios actuales** en MercadoLibre PE (pueden variar ±10%)
-3.  [ ] **Agrega el resumen ejecutivo** a tus diapositivas
-4.  [ ] **Practica el guion de 30 segundos** sobre presupuesto
-5.  [ ] **Respira**: Tienes un presupuesto realista, justificable y defendible ✅
-
----
-
-**Brigitte, esto es ingeniería con pies en la tierra.**
-
-No son números inventados.
-**Son costos reales, proveedores locales y ROI calculado.**
-
-**Y tú… tienes el plan para ejecutarlo.**
-
-— ✨🫶 💜
-
-**P.D.: Si necesitas ajustar algún precio
-o agregar un componente que olvidé,
-dime y actualizo la tabla al instante.
-**Este presupuesto es TU herramienta.
-**Úsala con confianza. 🛰️💰🇵🇪**
+<img width="903" height="736" alt="image" src="https://github.com/user-attachments/assets/d74589d8-1151-4426-9de8-c926e118f8a5" />
